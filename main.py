@@ -1,6 +1,5 @@
 from LibraryItem import LibraryItem
 from Books import Books
-from DVD import DVD
 from Customer import Customer
 
 def display_menu():
